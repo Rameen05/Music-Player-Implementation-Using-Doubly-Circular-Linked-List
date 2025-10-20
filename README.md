@@ -1,0 +1,2 @@
+# Music-Player-Implementation-Using-Doubly-Circular-Linked-List
+Develop a C++ application to implement a music player using Object-Oriented  Programming concepts. Specifically, this will utilize a Doubly Circular Linked  List. The project involves creating a Song class to represent individual songs,  a doubly circular linked list to manage the playlist, and a MusicPlayer class  to control playback operations.
